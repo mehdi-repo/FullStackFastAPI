@@ -8,7 +8,8 @@
 ### FastAPI Scripts
 #### cd into the /backend folder and create a Python environment
 ### python -m venv venv
- ###.\venv\Scripts\activate
+.\venv\Scripts\activate
  
- ###.The Python environment should be now activated 
+.The Python environment should be now activated 
+
  ### pip install -r requirements.txt
