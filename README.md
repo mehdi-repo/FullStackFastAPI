@@ -1,9 +1,9 @@
 #Welcome To FastAPI React and MongoDB
 
 ### React Scripts
-Inside the created frontend project,
-you can run some built-in commands:
-npm start or yarn start
+Inside the created frontend project, <br />
+you can run some built-in commands: <br />
+npm start or yarn start <br />
 
 
 ### FastAPI Scripts
