@@ -13,6 +13,10 @@ python -m venv venv
 
 .\venv\Scripts\activate
  
-.The Python environment should be now activated 
+The Python environment should be now activated 
 
 pip install -r requirements.txt
+
+
+** ERROR:    Application startup failed. Exiting.
+then be sure python select:interprator refer to venv
