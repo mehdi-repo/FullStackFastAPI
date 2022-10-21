@@ -7,18 +7,18 @@ npm start or yarn start <br />
 
 
 ### FastAPI Scripts
-cd into the /backend folder and create a Python environment \
-$ python -m venv venv
-$ .\venv\Scripts\activate
-The Python environment should be now activated 
-$ pip install -r requirements.txt
+cd into the /backend folder and create a Python environment <br />
+$ python -m venv venv <br />
+$ .\venv\Scripts\activate <br />
+The Python environment should be now activated  <br />
+$ pip install -r requirements.txt <br />
 
 
 ### Install MongoDB community or change DATABASE_URL To Mongo Atlas Connection
-create .env file in ROOT APP
-DATABASE_URL=mongodb://database:27017/planner
-SECRET_KEY=NOTSTRONGENOUGH!
-https://www.mongodb.com/try/download/community-kubernetes-operator
+create .env file in ROOT APP <br />
+DATABASE_URL=mongodb://database:27017/planner <br />
+SECRET_KEY=NOTSTRONGENOUGH! <br />
+https://www.mongodb.com/try/download/community-kubernetes-operator <br />
 
 
 ** ERROR:    Application startup failed. Exiting.
